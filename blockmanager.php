@@ -20,3 +20,7 @@ public function TestOnly()
     echo 'New Message';
     echo 'Other edit';
 }
+
+/**
+ * @see Edited in new branch adding-the-meta-info
+ */
