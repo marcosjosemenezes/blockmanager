@@ -18,4 +18,5 @@ public function TestOnly()
 {
     echo 'Test Only';
     echo 'New Message';
+    echo 'Other edit';
 }
