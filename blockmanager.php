@@ -17,4 +17,5 @@ echo CMS_START_TEST_ONLY;
 public function TestOnly()
 {
     echo 'Test Only';
+    echo 'New Message';
 }
