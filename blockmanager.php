@@ -25,6 +25,6 @@ public function TestOnly()
  * @see Edited in new branch adding-the-meta-info
  */
 
- /**
-  * @see This change of focus in the new branch feature test
-  */
+/**
+ * @see This change of focus in the new branch feature test
+ */
