@@ -12,6 +12,10 @@
  * @see Edited for rebased master in other branch
  */
 
+/**
+ * @see Edited after rebased in branch adding-the-meta-info
+ */
+
 if (!defined('CMS_START_TEST_ONLY')) { define('CMS_START_TEST_ONLY','Created for test'); }
 echo CMS_START_TEST_ONLY;
 
