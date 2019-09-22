@@ -28,3 +28,7 @@ public function TestOnly()
 /**
  * @see This change of focus in the new branch feature test
  */
+
+ /**
+  * @see Logo company edited and ready
+  */
