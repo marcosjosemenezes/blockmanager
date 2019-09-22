@@ -13,3 +13,7 @@ if (!defined('INTEGRATION_APP_KEY_GENERATOR')) { define('INTEGRATION_APP_KEY_GEN
 
 echo INTEGRATION_CLIENT_KEY_GENERATOR;
 echo INTEGRATION_APP_KEY_GENERATOR;
+
+/**
+ * @see Edited in new branch adding-the-meta-info
+ */
