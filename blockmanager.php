@@ -9,5 +9,12 @@
  */
 
 if (!defined('CMS_START_TEST_ONLY')) { define('CMS_START_TEST_ONLY','Created for test'); }
-
 echo CMS_START_TEST_ONLY;
+
+/**
+ * @see Test Only
+ */
+public function TestOnly()
+{
+    echo 'Test Only';
+}
