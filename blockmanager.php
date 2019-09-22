@@ -8,6 +8,10 @@
  * @version 1.00
  */
 
+/**
+ * @see Edited for rebased master in other branch
+ */
+
 if (!defined('CMS_START_TEST_ONLY')) { define('CMS_START_TEST_ONLY','Created for test'); }
 echo CMS_START_TEST_ONLY;
 
